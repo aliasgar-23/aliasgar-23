@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aliasgar-23
-- 👀 I’m interested in react native development
-- 🌱 I’m currently learning javascript
+- 👀 I’m a Node.js Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
